@@ -12,9 +12,3 @@ Os principais objetivos do projeto são:
 Em sua primeira fase, no primeiro semestre de 2025, foi realizada a pesquisa que subsidiou o entendimento acerca dos meios empregados no design de _apps_ de redes sociais. 
 
 Na segunda fase, à qual se dará início no segundo semestre de 2025, objetiva-se construir um protótipo de rede social que promova o uso consciente e equilibrado da plataforma, contrapondo-se às mídias construídas de forma a se tornarem progressivamente mais viciantes.
-
-## Notas
-
-Atualizações da ferramenta serão postadas neste repositório ao longo de seu desenvolvimento. 
-
-Em caso de dúvidas, comentários ou sugestões, fale com a gente! :)
